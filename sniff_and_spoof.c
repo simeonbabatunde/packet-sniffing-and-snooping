@@ -1,5 +1,4 @@
-/* For Problem 8 only
-*  Sniff and spoof icmp packet   */
+/* Sniff and spoof icmp packet   */
 
 #define APP_NAME    "sniffex"
 #define APP_DESC		"Sniffer example using libpcap"
