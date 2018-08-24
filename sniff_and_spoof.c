@@ -1,4 +1,4 @@
-/* Sniff and spoof icmp packet   */
+/* Packet sniffing and snooping program based on the work of Tcpdump Group  */
 
 #define APP_NAME    "sniffex"
 #define APP_DESC		"Sniffer example using libpcap"
